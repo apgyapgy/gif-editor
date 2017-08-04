@@ -1,0 +1,23 @@
+/*自定义字体begin*/
+@font-face {
+    font-family: "hanzhen";
+    src:url("../fonts/hanzhen.woff") format("woff"); 
+    /*src:url("../fonts/hanzhen.ttf") format("truetype");*/ 
+}
+@font-face{
+	font-family:"huakang";
+	src:url('../fonts/huakang.woff') format("woff");
+}
+/*@font-face{
+	font-family:"xinqingnian";
+	src:url('../fonts/lanting.woff') format("woff");
+}*/
+@font-face {
+    font-family: "wawati";
+    src:url("../fonts/miaowuti.woff") format("woff");
+}
+/*@font-face {
+    font-family: "zhunyuan";
+    src:url("../fonts/zhunyuan.woff") format("woff")
+}*/
+/*自定义字体end*/

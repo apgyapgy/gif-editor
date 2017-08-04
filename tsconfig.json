@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "outDir": "./src/main/webapp/static/",
+        "sourceMap": true,
+        "noImplicitAny": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "module": "commonjs",
+        "target": "es5",
+        "allowJs":true,
+        "lib": ["dom",  "es6"]
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "files": [
+        "./script/index.tsx"
+    ]
+}
